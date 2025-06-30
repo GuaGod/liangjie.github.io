@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiahao Wu"
-  pronouns         : "He" 
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # "He" 
+  bio              : "League of Legends and Fight for the Golden Spatula enthusiast.r"
   location         : "Shenzhen"
   employer         : "Peking University"
   uri              : # URL
