@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiahao Wu"
+title: "Jie Liang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at [Peking University](https://www.pku.edu.cn/), under the supervision of Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1073/2562.htm). I received my B.Eng. degree from the School of Computer Science and Technology at [Northeast Normal University](https://www.nenu.edu.cn/).
+I am currently a forth-year Ph.D. student at [Peking University](https://www.pku.edu.cn/), under the supervision of Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1073/2562.htm). I received my B.Eng. degree from the School of Computer Science and Technology at [Northeast Normal University](https://www.nenu.edu.cn/).
 
 My current research interests lie in 3D computer vision, with a focus on dynamic scene reconstruction and Multi View Stereo, leveraging techniques like 3D Gaussian Splatting and COLMAP.
 
